@@ -1,0 +1,227 @@
+<!--homepage-- -->
+<style type="text/css">
+#_bg__homepage {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-90deg , rgba(202,240,248,1) 26%, rgba(236.43,232.69,255,1) 72%);
+	background: -o-linear-gradient(-90deg , rgba(202,240,248,1) 26%, rgba(236.43,232.69,255,1) 72%);
+	background: -moz-linear-gradient(-90deg , rgba(202,240,248,1) 26%, rgba(236.43,232.69,255,1) 72%);
+	background: -ms-linear-gradient(-90deg , rgba(202,240,248,1) 26%, rgba(236.43,232.69,255,1) 72%);
+	background: linear-gradient(-90deg , rgba(202,240,248,1) 26%, rgba(236.43,232.69,255,1) 72%);
+}
+
+</style>
+<div id="_bg__homepage"  ></div>
+
+<!--profile page-- -->
+<style type="text/css">
+#_bg__user_profile {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-90deg , rgba(202,240,248,1) 32%, rgba(236.43,232.69,255,1) 74%);
+	background: -o-linear-gradient(-90deg , rgba(202,240,248,1) 32%, rgba(236.43,232.69,255,1) 74%);
+	background: -moz-linear-gradient(-90deg , rgba(202,240,248,1) 32%, rgba(236.43,232.69,255,1) 74%);
+	background: -ms-linear-gradient(-90deg , rgba(202,240,248,1) 32%, rgba(236.43,232.69,255,1) 74%);
+	background: linear-gradient(-90deg , rgba(202,240,248,1) 32%, rgba(236.43,232.69,255,1) 74%);
+}
+ 
+</style>
+<div id="_bg__user_profile"  ></div>
+<!--texting page-- -->
+<style type="text/css">
+#_bg__texting_page {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-90deg , rgba(202,240,248,1) 36%, rgba(236.43,232.69,255,1) 67%);
+	background: -o-linear-gradient(-90deg , rgba(202,240,248,1) 36%, rgba(236.43,232.69,255,1) 67%);
+	background: -moz-linear-gradient(-90deg , rgba(202,240,248,1) 36%, rgba(236.43,232.69,255,1) 67%);
+	background: -ms-linear-gradient(-90deg , rgba(202,240,248,1) 36%, rgba(236.43,232.69,255,1) 67%);
+	background: linear-gradient(-90deg , rgba(202,240,248,1) 36%, rgba(236.43,232.69,255,1) 67%);
+}
+ 
+</style>
+<div id="_bg__texting_page"  ></div>
+<!--speech feature page-- -->
+<style type="text/css">
+#_bg__speech_feature {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-90deg , rgba(202,240,248,1) 32%, rgba(236.43,232.69,255,1) 74%);
+	background: -o-linear-gradient(-90deg , rgba(202,240,248,1) 32%, rgba(236.43,232.69,255,1) 74%);
+	background: -moz-linear-gradient(-90deg , rgba(202,240,248,1) 32%, rgba(236.43,232.69,255,1) 74%);
+	background: -ms-linear-gradient(-90deg , rgba(202,240,248,1) 32%, rgba(236.43,232.69,255,1) 74%);
+	background: linear-gradient(-90deg , rgba(202,240,248,1) 32%, rgba(236.43,232.69,255,1) 74%);
+}
+ 
+</style>
+<div id="_bg__speech_feature"  ></div>
+<!--Education page-- -->
+<style type="text/css">
+#_bg__education_page {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-90deg , rgba(202,240,248,1) 24%, rgba(104.18,205.07,225.25,1) 77%);
+	background: -o-linear-gradient(-90deg , rgba(202,240,248,1) 24%, rgba(104.18,205.07,225.25,1) 77%);
+	background: -moz-linear-gradient(-90deg , rgba(202,240,248,1) 24%, rgba(104.18,205.07,225.25,1) 77%);
+	background: -ms-linear-gradient(-90deg , rgba(202,240,248,1) 24%, rgba(104.18,205.07,225.25,1) 77%);
+	background: linear-gradient(-90deg , rgba(202,240,248,1) 24%, rgba(104.18,205.07,225.25,1) 77%);
+}
+ 
+</style>
+<div id="_bg__education_page"  ></div>
+<!-- Health page-- -->
+<style type="text/css">
+#_bg__health_page {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-90deg , rgba(255,212.5,222.06,1) 33%, rgba(255,117,143,1) 77%);
+	background: -o-linear-gradient(-90deg , rgba(255,212.5,222.06,1) 33%, rgba(255,117,143,1) 77%);
+	background: -moz-linear-gradient(-90deg , rgba(255,212.5,222.06,1) 33%, rgba(255,117,143,1) 77%);
+	background: -ms-linear-gradient(-90deg , rgba(255,212.5,222.06,1) 33%, rgba(255,117,143,1) 77%);
+	background: linear-gradient(-90deg , rgba(255,212.5,222.06,1) 33%, rgba(255,117,143,1) 77%);
+}
+ 
+</style>
+<div id="_bg__health_page"  ></div>
+<!-- Game page-- -->
+<style type="text/css">
+#_bg__game_page {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-90deg , rgba(202,240,248,1) 24%, rgba(104.18,205.07,225.25,1) 77%);
+	background: -o-linear-gradient(-90deg , rgba(202,240,248,1) 24%, rgba(104.18,205.07,225.25,1) 77%);
+	background: -moz-linear-gradient(-90deg , rgba(202,240,248,1) 24%, rgba(104.18,205.07,225.25,1) 77%);
+	background: -ms-linear-gradient(-90deg , rgba(202,240,248,1) 24%, rgba(104.18,205.07,225.25,1) 77%);
+	background: linear-gradient(-90deg , rgba(202,240,248,1) 24%, rgba(104.18,205.07,225.25,1) 77%);
+}
+ 
+</style>
+<div id="_bg__game_page"  ></div>
+<!-- Mental Health page-- -->
+<style type="text/css">
+#_bg__mental_health_page {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-90deg , rgba(255,212.5,222.06,1) 33%, rgba(255,117,143,1) 77%);
+	background: -o-linear-gradient(-90deg , rgba(255,212.5,222.06,1) 33%, rgba(255,117,143,1) 77%);
+	background: -moz-linear-gradient(-90deg , rgba(255,212.5,222.06,1) 33%, rgba(255,117,143,1) 77%);
+	background: -ms-linear-gradient(-90deg , rgba(255,212.5,222.06,1) 33%, rgba(255,117,143,1) 77%);
+	background: linear-gradient(-90deg , rgba(255,212.5,222.06,1) 33%, rgba(255,117,143,1) 77%);
+}
+ 
+</style>
+<div id="_bg__mental_health_page"  ></div>
+<!-- Accesibility page-- -->
+<style type="text/css">
+#_bg__accessibility_page {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	-ms-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-90deg , rgba(235.2,246.5,239.22,1) 33%, rgba(96,202,149,1) 77%);
+	background: -o-linear-gradient(-90deg , rgba(235.2,246.5,239.22,1) 33%, rgba(96,202,149,1) 77%);
+	background: -moz-linear-gradient(-90deg , rgba(235.2,246.5,239.22,1) 33%, rgba(96,202,149,1) 77%);
+	background: -ms-linear-gradient(-90deg , rgba(235.2,246.5,239.22,1) 33%, rgba(96,202,149,1) 77%);
+	background: linear-gradient(-90deg , rgba(235.2,246.5,239.22,1) 33%, rgba(96,202,149,1) 77%);
+}
+ 
+</style>
+<div id="_bg__accessibility_page"  ></div>
+<!-- News and Events page-- -->
+<style type="text/css">
+#_bg__news_and_events_page {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 812px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-90.064929095373deg , rgba(221,222,230,1) 0%, rgba(163,176,181,1) 100%);
+	background: -o-linear-gradient(-90.064929095373deg , rgba(221,222,230,1) 0%, rgba(163,176,181,1) 100%);
+	background: -moz-linear-gradient(-90.064929095373deg , rgba(221,222,230,1) 0%, rgba(163,176,181,1) 100%);
+	background: -ms-linear-gradient(-90.064929095373deg , rgba(221,222,230,1) 0%, rgba(163,176,181,1) 100%);
+	background: linear-gradient(-90.064929095373deg , rgba(221,222,230,1) 0%, rgba(163,176,181,1) 100%);
+}
+ 
+</style>
+<div id="_bg__news_and_events_page"  ></div>
+<!-- Networking page-- -->
+<style type="text/css">
+#_bg__networking_page {
+	top: 0px;
+	left: 0px;
+	width: 375px;
+	height: 819px;
+	background:rgba(255,255,255,0);
+	background: -webkit-linear-gradient(-90deg , rgba(221,222,230,1) 0%, rgba(163,176,181,1) 100%);
+	background: -o-linear-gradient(-90deg , rgba(221,222,230,1) 0%, rgba(163,176,181,1) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(221,222,230,1) 0%, rgba(163,176,181,1) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(221,222,230,1) 0%, rgba(163,176,181,1) 100%);
+	background: linear-gradient(-90deg , rgba(221,222,230,1) 0%, rgba(163,176,181,1) 100%);
+}
+ 
+</style>
