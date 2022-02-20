@@ -1,2 +1,2 @@
-# StormHacks Hackathon
-Project created for StormsHacks 2022
+# StormHacks Hackathon 2022
+HTML, CSS, JavaScript, Figma
